@@ -1,4 +1,4 @@
 # apnacollege-just-demo
-This is my first Repository
+This is my first Repository.
 <br>
 Author-Mohd Amaad
